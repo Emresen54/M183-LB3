@@ -1,4 +1,4 @@
-# A simple NodeJS Webapplication that allows yout to Post Tweets
+## A simple NodeJS Webapplication that allows you to Post Tweets
 
 ### Getting Started
 
@@ -30,3 +30,6 @@
 | switzerchees | 123456   |
 | john         | 123456   |
 | jane         | 123456   |
+
+npm install aes-encryption
+

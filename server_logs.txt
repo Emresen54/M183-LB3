@@ -1,0 +1,5 @@
+[2024-11-13T18:53:41.843Z] ERROR: Token verification failed: jwt malformed
+[2024-11-13T19:40:23.957Z] ERROR: Token verification failed: jwt malformed
+[2024-11-13T19:42:52.636Z] ERROR: Token verification failed: jwt malformed
+[2024-11-13T19:52:58.723Z] ERROR: Token verification failed: jwt malformed
+[2024-11-13T19:55:35.704Z] ERROR: Token verification failed: jwt malformed
