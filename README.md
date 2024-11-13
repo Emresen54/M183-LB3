@@ -4,7 +4,7 @@
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/SwitzerChees/m183-minitwitter
+   git clone https://github.com/Emresen54/M183-LB3
    ```
 2. Install NPM packages
    ```sh
